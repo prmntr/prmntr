@@ -1,4 +1,7 @@
-## Hi there 👋
+## dih? whats a dih 💔💔💔💔💔💔
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27TiMypIAPUEv3C91dZJL4RKqeJ_CebLDUw&s" alt="goonicide" width="50" height="50"><br>
+</div>
 
 <!--
 **prmntr/prmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
