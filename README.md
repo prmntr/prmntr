@@ -1,6 +1,6 @@
 ## dih? whats a dih 💔💔💔💔💔💔
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27TiMypIAPUEv3C91dZJL4RKqeJ_CebLDUw&s" alt="goonicide" width="50" height="50"><br>
+  <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="goonicide" width="44" height="50"><br>
 </div>
 
 <!--
