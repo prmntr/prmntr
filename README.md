@@ -2,7 +2,7 @@
 ## fuck you
 <div align="center">
   <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="holy c" width="44" height="50"><br>
-  <img src="https://ibb.co/ymHsZ8p1" alt="java" width="50" height="50"><br>
+  <img src="https://media.discordapp.net/attachments/1004524529894297611/1345939267024846928/javaButActuallyGood.jpg" alt="java" width="50" height="50"><br>
   
 </div>
 
