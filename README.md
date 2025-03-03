@@ -1,6 +1,9 @@
 ## dih? whats a dih 💔💔💔💔💔💔
+## fuck you
 <div align="center">
-  <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="goonicide" width="44" height="50"><br>
+  <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="holy c" width="44" height="50"><br>
+  <img src="https://ibb.co/ymHsZ8p1" alt="java" width="50" height="50"><br>
+  
 </div>
 
 <!--
@@ -8,12 +11,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on ... gooning
+- 🌱 I’m currently learning ... to goon
+- 👯 I’m looking to collaborate on ... munting
+- 🤔 I’m looking for help with ... edging
+- 💬 Ask me about ... unemployment
+- 📫 How to reach me: ... dih
+- 😄 Pronouns: ... ze zim zirs
 - ⚡ Fun fact: ...
 -->
