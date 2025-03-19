@@ -22,7 +22,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="Holy C" width="35" height="40"/>
+  <a href="https://holyc-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="Holy C" width="35" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
