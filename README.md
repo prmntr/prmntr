@@ -1,5 +1,5 @@
-<h1 align="center">I'm prejudiced against black people</h1>
-<h5 align="center">I really don't like them</h5>
+<h1 align="center">Hey</h1>
+<h5 align="center">welcome to my profile</h5>
 
 <h3 align="center">My Techstack:</h3>
 <p align="center">
@@ -25,9 +25,6 @@
   <a href="https://holyc-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://i.redd.it/ogzpwqpf8gv51.png" alt="Holy C" width="35" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
 </p>
 
 <p align="center">
@@ -44,8 +41,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcmKD370zZ_gDhMVzMYuwJQfG_bndLTG-BQ&s" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
 
@@ -63,12 +60,9 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/_prmntr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prmntr" height="30" width="40" /></a>
+<a href="https://twitter.com/_pmtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prmntr" height="30" width="40" /></a>
 </p>
