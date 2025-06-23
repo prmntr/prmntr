@@ -19,7 +19,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcmKD370zZ_gDhMVzMYuwJQfG_bndLTG-BQ&s" alt="Express.js" width="40" height="40"/></a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/NdQNzCG6/express-logo-white.png/></a>" alt="Express.js" width="40" height="40"/></a>
 </p>
 
 <p align="center">
